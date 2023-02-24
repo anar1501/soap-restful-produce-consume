@@ -20,6 +20,7 @@ I welcome any and all contributions! Here are some ways you can get started:
 5. Wait for pull request to be merged
 
 ## How to run this project?
+Before get run a project first both of them required mvn clean install package
 1. You run a project that is called soap-produce
 2. After that run a project that is called consumer-api
 3. This way you can request to restful apis and you will be see that your request go to the soap ws after that you will be see that response in your swagger or ay restful client tools
